@@ -1,5 +1,3 @@
-/*
-
 #ifndef MODEL_CLASS_H
 #define MODEL_CLASS_H
 
@@ -61,4 +59,3 @@ private:
 	std::vector<glm::vec4> groupFloatsVec4(std::vector<float> floatVec);
 };
 #endif
-*/

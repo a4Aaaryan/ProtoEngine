@@ -1,4 +1,4 @@
-/*
+
 #include"Model.h"
 
 Model::Model(const char* file)
@@ -351,4 +351,3 @@ std::vector<glm::vec4> Model::groupFloatsVec4(std::vector<float> floatVec)
 	}
 	return vectors;
 }
-*/
